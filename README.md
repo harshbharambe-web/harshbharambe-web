@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Harsh Bharambe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=800&lines=Java+Developer;Backend+Developer;Problem+Solver;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=800&lines=Java+Developer;Backend+Developer;Problem+Solver;JAVA+FULLStack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
