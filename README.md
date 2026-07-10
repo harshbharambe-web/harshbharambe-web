@@ -1,50 +1,243 @@
-<h1 align="left">Hi, I'm Harsh 👋</h1>
+<div align="center">
 
-**Java Developer** focused on backend engineering, clean code, and problem-solving.
+# Hi 👋, I'm Harsh Bharambe
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=turquoise&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=800&lines=Java+Developer;Backend+Developer;Problem+Solver;MERN+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## About Me
-
-- 🔭 Currently sharpening my **Data Structures & Algorithms** for technical interviews
-- 🌱 Deepening my knowledge of **Spring Boot**, **Microservices**, and **System Design**
-- 💬 Ask me about **Java**, **OOP concepts**, or **DSA problem-solving strategies**
-- 📫 Reach me at: **your.email@gmail.com**
-- 🌍 Based in Pune, India
+</div>
 
 ---
 
-## Tech Stack
+# 💫 About Me
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat-square&logo=springboot)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat-square&logo=hibernate)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
+🚀 Passionate Java Developer focused on writing clean and scalable applications.
 
-**Concepts:** OOP · Data Structures & Algorithms · REST APIs · Microservices · System Design
+🎓 Third Year Information Technology Student
+
+💻 Interested in
+
+- Java
+- JDBC
+- MySQL
+- Data Structures & Algorithms
+- Backend Development
+- REST APIs
+- Spring Boot (Learning)
+- MERN Stack
+
+🌱 Currently Learning
+
+- Spring Boot
+- Hibernate
+- Microservices
+- System Design
+- Advanced DSA
+
+🎯 2026 Goals
+
+✔ Crack Java Developer Role
+
+✔ Master Spring Boot
+
+✔ Solve 500+ DSA Problems
+
+✔ Build Production Level Projects
 
 ---
 
-## GitHub Stats
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&hide_title=true" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,eclipse,figma"/>
 </p>
 
 ---
 
-## Connect
+# 🚀 Featured Projects
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [LeetCode](https://leetcode.com/YOUR_USERNAME) · [Email](mailto:your.email@gmail.com)
+### Employee Management System
+Java • JDBC • MySQL
+
+✔ CRUD Operations
+
+✔ PreparedStatement
+
+✔ DAO Pattern
+
+✔ JDBC Connectivity
 
 ---
 
-<sub>Thanks for visiting my profile.</sub>
+### Chat Application
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Authentication
+
+Real-time Messaging
+
+---
+
+### Blog Application
+
+MERN Stack
+
+REST APIs
+
+CRUD
+
+Authentication
+
+MongoDB
+
+---
+
+### Quiz Application
+
+MongoDB
+
+Node.js
+
+Express
+
+Score Management
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⚡ Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Currently Working On
+
+✔ Java Projects
+
+✔ Spring Boot
+
+✔ Data Structures & Algorithms
+
+✔ Backend Development
+
+---
+
+# 📚 Currently Reading
+
+- Clean Code
+- Effective Java
+- Spring Documentation
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(!success){
+
+    learn();
+
+    practice();
+
+    improve();
+
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A84FF,100:6A5ACD&section=footer"/>
+
+</div>
